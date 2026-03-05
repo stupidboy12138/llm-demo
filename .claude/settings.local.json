@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(dir:*)",
+      "Bash(if not exist \"ai\\\\a2ui\" mkdir \"ai\\\\a2ui\")",
+      "Bash(chmod:*)",
+      "Bash(tree:*)",
+      "Bash(mkdir:*)",
+      "Bash(pip show:*)",
+      "Bash(pip install:*)"
+    ]
+  }
+}
